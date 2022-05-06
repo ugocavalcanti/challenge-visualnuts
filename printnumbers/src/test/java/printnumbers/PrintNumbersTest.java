@@ -8,7 +8,7 @@ public class PrintNumbersTest {
 	public void testPrintNumbers1toX() {
 		PrintNumbers printNumbers = new PrintNumbers();
 		
-		printNumbers.printNumbersFrom1toX(10);
+		printNumbers.printNumbersFrom1toX(100);
 	}
 
 }
