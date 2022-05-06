@@ -1,0 +1,12 @@
+countries/target
+countries/.project
+countries/.settings
+countries/.classpath
+
+printnumbers/target
+printnumbers/.project
+printnumbers/.settings
+printnumbers/.classpath
+
+RemoteSystemsTempFiles/
+.metadata/
